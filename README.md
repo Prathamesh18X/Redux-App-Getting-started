@@ -5,7 +5,7 @@ Basically with these app, I have tried to put my hand on React-states in-depth.
 It's consist of two component which can share their state optimally across each other without [Prop Drilling](https://dev.to/codeofrelevancy/what-is-prop-drilling-in-react-3kol)
 
 ## Have a look.
-here are two separated react components to increment and decrement Quantity within cart
+here are two separated react components to increment and decrement Quantity within cart to manage state across different functional components.
 ![image](https://github.com/Prathamesh18X/Redux-App-Getting-started/assets/109477390/081e4cde-b082-41b6-a256-8a5c4e650aee)
 
 
